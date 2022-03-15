@@ -1,2 +1,2 @@
-# Project2
+# Heart Failure Predictions
 Supervised Machine Learning
